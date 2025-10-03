@@ -1,7 +1,7 @@
 해당 프로젝트는 외국인 관광객에게 국내 여행지를 추천하는 프로젝트입니다.
 
 **폴더 구조 설명**
-project/
+
 
     data/            # raw 데이터(보통 .gitignore에 추가)
 
@@ -14,5 +14,5 @@ project/
     docs/            # 문서(설명서, 발표자료)
 
     .gitignore
-    
+
     README.md
