@@ -2,10 +2,17 @@
 
 **폴더 구조 설명**
 project/
-├── data/            # raw 데이터(보통 .gitignore에 추가)
-├── notebooks/       # 분석용 노트북(Colab/Jupyter)
-├── src/             # 모듈화된 코드 (preprocess/, models/, utils/)
-├── results/         # 실험 결과 (모델, 그래프)
-├── docs/            # 문서(설명서, 발표자료)
-├── .gitignore
-└── README.md
+
+    data/            # raw 데이터(보통 .gitignore에 추가)
+
+    notebooks/       # 분석용 노트북(Colab/Jupyter)
+
+    src/             # 모듈화된 코드 (preprocess/, models/, utils/)
+
+    results/         # 실험 결과 (모델, 그래프)
+
+    docs/            # 문서(설명서, 발표자료)
+
+    .gitignore
+    
+    README.md
