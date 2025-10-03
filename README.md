@@ -2,7 +2,6 @@
 
 **폴더 구조 설명**
 
-
     data/            # raw 데이터(보통 .gitignore에 추가)
 
     notebooks/       # 분석용 노트북(Colab/Jupyter)
